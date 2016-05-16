@@ -7,7 +7,9 @@ The Independent Expenditure and Candidate Disbursements data can be found at at 
 - [http://www.fec.gov/data/CandidateDisbursement.do](http://www.fec.gov/data/CandidateDisbursement.do)
 
 
-# Let's first explore the [Independent Expenditures data](http://www.fec.gov/data/CandidateDisbursement.do). There's a clickable icon for getting the data in CSV format; I've hardcoded it below for 2016:
+# Fun with Python
+
+Let's first explore the [Independent Expenditures data](http://www.fec.gov/data/CandidateDisbursement.do). There's a clickable icon for getting the data in CSV format; I've hardcoded it below for 2016:
 
 ~~~py
 from datetime import datetime
